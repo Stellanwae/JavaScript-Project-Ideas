@@ -6,3 +6,4 @@
 - [How You Can Boost Your JavaScript Potential With These Exciting Project Ideas](https://emeritus.org/blog/coding-javascript-project-ideas/)
 - [7 Beginner-Friendly Projects Using APIs and JavaScript
 ](https://javascript.plainenglish.io/top-beginner-friendly-projects-using-apis-f43356aeac7f)
+- [Wesbos Courses](https://courses.wesbos.com/account/access/65228b6acb8f2c5d04bf6ce2/view/194130650)
